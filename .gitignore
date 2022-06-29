@@ -1,0 +1,11 @@
+node_modules/
+.build
+.idea
+.project
+.settings
+*.swp
+logs
+*.log
+coverage/
+examples/movie catalog/public/bundle.js
+package-lock.json
